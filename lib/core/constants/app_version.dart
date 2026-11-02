@@ -1,0 +1,1 @@
+const appVersionLabel = '1.0.0 (1)';
